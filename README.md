@@ -1,4 +1,4 @@
-<h3>Hi! It's Juliet 🥧</h3>
+<h3>Hi! I'm Julieta</h3>
 
 This is my stack:
 <p>
